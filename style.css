@@ -63,3 +63,8 @@ body {
     color: #024e76;
  }
 
+
+.hero{
+    background-image: url(./images/hero-bg.jpeg);
+    height: 600px;
+}
